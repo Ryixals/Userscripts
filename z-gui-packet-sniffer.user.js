@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Z-GUI PACKET SNIFFER FOR GIMKIT
-// @namespace    https://tampermonkey.net
+// @namespace    http://tampermonkey.net
 // @version      1.3.0
 // @description  The best Gimkit hacks on the web
 // @author       Ryixals

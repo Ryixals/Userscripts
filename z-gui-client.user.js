@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Z-GUI CLIENT FOR GIMKIT
-// @namespace    https://tampermonkey.net
+// @namespace    http://tampermonkey.net
 // @version      2.5.9
 // @description  The best Gimkit hacks on the web
 // @author       Ryixals

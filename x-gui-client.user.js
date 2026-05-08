@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         X-GUI CLIENT FOR BLOOKET
 // @namespace    http://tampermonkey.net/
-// @version      7.40
+// @version      8.00x
 // @description  The best Blooket hacks on the web
 // @author       Ryixals
 // @run-at       document-end
