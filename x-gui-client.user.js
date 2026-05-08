@@ -15319,12 +15319,10 @@ function(amount) {
         const codingCredits = document.createElement("ul");
         codingCredits.className = classes.codingCredits;
         codingCredits.append(createCredit("Owner", "Ryixals"));
-        codingCredits.append(createCredit("Founder", "Xullys"));
-        codingCredits.append(createCredit("Full GUI Dev", "Ryixals+Cathead+landsedge"));
-        codingCredits.append(createCredit("Module Dev", "Ryixals+redhorse26+landsedge+Lil Skittle"));
-        codingCredits.append(createCredit("Design Dev", "Lil Skittle+landsedge"));
-        codingCredits.append(createCredit("Contributor", "DannyDan+kkk23"));
-        codingCredits.append(createCredit("Original Blooket Cheats", 'gliz <i class="fas fa-long-arrow-alt-right"></i> Minesraft2 <i class="fas fa-long-arrow-alt-right"></i> 05Konz'));
+        codingCredits.append(createCredit("UI", "Ryixals <i class='fas fa-long-arrow-alt-right'></i> Cathead <i class='fas fa-long-arrow-alt-right'></i> landsedge"));
+        codingCredits.append(createCredit("Design", "DannyDan <i class='fas fa-long-arrow-alt-right'></i> Lil Skittle <i class='fas fa-long-arrow-alt-right'></i> landsedge"));
+        codingCredits.append(createCredit("Modules", "Ryixals <i class='fas fa-long-arrow-alt-right'></i> redhorse26 <i class='fas fa-long-arrow-alt-right'></i> landsedge <i class='fas fa-long-arrow-alt-right'></i> Lil Skittle"));
+        codingCredits.append(createCredit("Functionality", "Ryixals <i class='fas fa-long-arrow-alt-right'></i> gliz <i class='fas fa-long-arrow-alt-right'></i> Minesraft2 <i class='fas fa-long-arrow-alt-right'></i> 05Konz"));
         const creditLinks = document.createElement("ul");
         creditLinks.className = classes.creditLinks;
 
